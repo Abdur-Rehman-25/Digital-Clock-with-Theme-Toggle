@@ -1,0 +1,31 @@
+body {
+
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+    padding-top: 100px;
+    transition: backgrround-color 0.3s, color 0.3s;
+
+}
+
+.dark {
+
+    background-color: #333;
+    color: #f0f0f0;
+
+}
+
+#clock {
+    
+    font-size: 60px;
+
+}
+
+button {
+
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+
+}
